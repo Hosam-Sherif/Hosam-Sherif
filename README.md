@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Hosam Sherif , <br>CS Student</h2>
+<h2 align="left">Hi 👋! My name is Hosam Sherif , <br>CS Student @SVNU</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF3NHpoZGJlYTN0YjMxOXluMG0wZXZyNTF2anR4M21wdnpsZTlsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyyUwsNClJDoI/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVuODk3YWFpeXdyeDA0Mzl2dGFkNGw0b3Y1cW1rNXR2dmx1eXNuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="animated" />
+</p>
 
 ###
 
