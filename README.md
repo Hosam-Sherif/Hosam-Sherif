@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hosam Sherif</h1>
-<h3 align="center">CS student at SVNU, learning .NET and passionate about software development and problem-solving.</h3>
+<h3 align="center">CS student at SVNU, learning .NET and focused on software development and problem-solving.</h3>
 
 <br clear="both">
 
