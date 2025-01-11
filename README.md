@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=08F700&width=435&lines=Hello+There!;My+name+is+Hosam+Sherif;I+am+a+CS+Student;)](https://git.io/typing-svg)
-
+<h1 align="center">Hi there, I'm Hosam Sherif</h1>
+<h3 align="center">CS student at SVNU, learning .NET and passionate about software development and problem-solving.</h3>
 ###
 
 <br clear="both">
@@ -8,6 +8,14 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVuODk3YWFpeXdyeDA0Mzl2dGFkNGw0b3Y1cW1rNXR2dmx1eXNuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="animated" />
 </p>
 
+###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hosam-sherif-b32530269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003400061441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hosam_sherif_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="35" alt="instagram logo"  />
+</p>
 ###
 
 <div align="center">
@@ -28,19 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hosam-sherif-b32530269/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100003400061441" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="63" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/hosam_sherif_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="35" alt="instagram logo"  />
-  </a>
-</div>
+
+
 
 ###
 
