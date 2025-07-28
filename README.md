@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hosam Sherif</h1>
-<h3 align="left">Back-end Developer and Computer Science student at South Valley National University, specializing in .NET technologies. Focused on building scalable, maintainable systems and passionate about software architecture and problem-solving.</h3>
+<h3 align="left">Back-end Developer and CS student at SVNU, specializing in .NET technologies. Focused on building scalable, maintainable systems and passionate about software architecture and problem-solving.</h3>
 
 <br clear="both">
 
