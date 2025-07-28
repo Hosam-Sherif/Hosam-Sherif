@@ -7,18 +7,14 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVuODk3YWFpeXdyeDA0Mzl2dGFkNGw0b3Y1cW1rNXR2dmx1eXNuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="animated" />
 </p>
 
----
-
-### 🌐 Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hosam-sherif-b32530269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosam" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100003400061441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hosam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hosam_sherif_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hosam" height="30" width="40" /></a>
 </p>
 
----
-
-### 🛠️ Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
   <img width="18" />
@@ -36,14 +32,3 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
 </div>
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Hosam-Sherif&show_icons=true&locale=en&layout=compact" alt="Hosam-Sherif stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hosam-Sherif" alt="Hosam-Sherif streak" />
-</p>
