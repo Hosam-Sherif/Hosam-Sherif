@@ -8,11 +8,13 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hosam-sherif-b32530269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100003400061441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hosam" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hosam_sherif_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hosam" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="www.linkedin.com/in/hosam-sherif-b32530269" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="32" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=hosamsherfi@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="32" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=hosam__&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="32" alt="discord logo"  />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
