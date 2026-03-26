@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="www.linkedin.com/in/hosam-sherif-b32530269" target="www.linkedin.com/in/hosam-sherif-b32530269">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="32" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=hosamsherfi@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="32" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=hosam__&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="32" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=hosamsherfi@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=hosam__&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="40" alt="discord logo"  />
 </div>
 
 <h3 align="left">Languages, Tools and Technologies:</h3>
