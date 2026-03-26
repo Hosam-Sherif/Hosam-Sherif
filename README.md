@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/hosam-sherif-b32530269" target="_blank">
+  <a href="www.linkedin.com/in/hosam-sherif-b32530269" target="www.linkedin.com/in/hosam-sherif-b32530269">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="32" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=hosamsherfi@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="32" alt="gmail logo"  />
